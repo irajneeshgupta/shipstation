@@ -1,4 +1,4 @@
-# ShipStation
+# ShipStation magento 2.4.1 compatible extension
 
 Extract the zip file into magento root folder
 
